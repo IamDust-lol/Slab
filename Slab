@@ -1,0 +1,28 @@
+/**
+ * @name Slab
+*/
+
+/*
+  Import Source Code 
+*/
+@import url("https://discordstyles.github.io/AdjustableServerWidth/base.css");
+@import url("https://discordstyles.github.io/Slate/dist/Slate.css");
+
+/*
+  Basic Variables
+  See available vars here: https://github.com/DiscordStyles/Slate/wiki
+*/
+:root {
+  /* Primary Colors */
+  --accent: 3, 102, 214;
+  --link-colour: 48, 144, 255;
+
+  /* Server List */
+  --server-icon-size: 35px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+}
+
+/*
+  Place any Theme-specific Custom CSS Below here
+*/
